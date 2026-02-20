@@ -1,0 +1,51 @@
+id,name,team,nationality,gender,foot,height,weight,position,pace,shooting,passing,dribbling,defending,physical,overall
+1,Mohammed Salah,Liverpool,Egypt,male,left,175,72,SGO,89,88,86,90,45,76,91
+2,Rodri,Manchester City,Spain,male,right,190,82,MDO,65,80,86,84,86,85,90
+3,Virgil van Dijk,Liverpool,Netherlands,male,right,193,92,STP,73,60,72,72,90,87,90
+4,Erling Haaland,Manchester City,Norway,male,left,195,94,SNT,86,91,70,80,45,88,90
+5,Alessia Russo,Arsenal,England,female,right,173,64,SNT,82,88,70,87,39,73,89
+6,Mariona,Arsenal,Spain,female,right,165,62,MO,78,84,86,90,76,79,89
+7,Gianluigi Donnarumma,Manchester City,Italy,male,right,196,90,KL,90,83,70,90,52,87,89
+8,Khadija Shaw,Manchester City,Jamaika,female,right,180,70,SNT,71,89,71,81,32,85,89
+9,Florian Wirtz,Liverpool,Germany,male,right,177,71,MOO,80,82,88,90,54,67,89
+10,Guro Reiten,Chelsea,Norway,female,left,167,60,SLO,88,82,85,87,60,69,88
+11,Alexander Isak,Liverpool,Sweden,male,right,192,77,SNT,83,89,73,85,39,76,88
+12,Gabriel,Arsenal,Brazil,male,left,190,87,STP,64,44,64,65,88,84,88
+13,Bukayo Saka,Arsenal,England,male,left,178,65,SGK,84,82,85,88,60,73,88
+14,Cole Palmer,Chelsea,England,male,left,185,76,MOO,75,83,87,87,50,65,87
+15,Chloe Kelly,Arsenal,England,female,right,168,58,SGO,88,84,85,84,43,69,87
+16,Lucy Bronze,Chelsea,England,female,right,172,70,SGB,71,68,82,80,87,87,87
+17,Moises Caicedo,Chelsea,Ecuador,male,right,178,73,MDO,71,64,78,81,84,82,87
+18,Declan Rice,Arsenal,England,male,right,185,80,MDO,72,73,84,80,83,83,87
+19,Leah Williamson,Arsenal,England,female,right,170,57,STP,74,48,73,72,88,77,87
+20,Beth Mead,Arsenal,England,female,right,163,58,SGO,82,84,84,87,67,73,87
+21,Bruno Fernandes,Manchester United,Portugal,male,right,179,69,MOO,67,83,89,83,65,75,87
+22,William Saliba,Arsenal,France,male,right,193,85,STP,77,39,68,72,87,83,87
+23,Alexis Mac Allister,Liverpool,Argentina,male,right,176,72,MO,66,82,85,85,78,76,87
+24,Lauren Hemp,Manchester City,England,female,left,164,59,SLK,91,77,84,87,63,70,87
+25,Millie Bright,Chelsea,England,female,right,178,76,STP,57,51,70,62,87,88,87
+26,Martin Odegaard,Arsenal,Norway,male,left,178,68,MO,68,79,88,87,67,65,87
+27,Katie McCabe,Arsenal,Ireland,female,left,164,55,SLB,80,81,82,83,83,82,87
+28,David Raya,Arsenal,Spain,male,right,183,75,KL,86,84,87,87,62,85,87
+29,Millie Bright,Chelsea,England,female,right,178,76,STP,57,51,70,62,87,88,87
+30,Victor Gyökeres,Arsenal,Sweeden,male,right,189,94,SNT,90,86,73,81,36,91,87
+31,Sam Kerr,Chelsea,Australian,female,right,168,66,SNT,80,87,74,89,42,83,87
+32,Ruben Dias,Manchester City,Portugal,male,right,187,82,STP,59,39,69,69,86,84,86
+33,Bruno Guimaraes,Newcastle United,Brazil,male,right,182,74,MO,66,75,84,84,79,81,86
+34,Ibrahima Konate,Liverpool,France,male,right,194,95,STP,77,34,63,69,86,85,86
+35,Sandro Tonali,Newcastle United,Italy,male,right,181,79,MDO,79,74,82,80,81,83,86
+36,Tijjani Reijnders,Manchester City,Netherlands,male,right,185,73,MO,79,79,82,85,77,77,86
+37,Chiamaka Nnadaozie,Brighton & Hove Albion,Nigerian,female,right,180,69,KL,87,80,80,88,63,84,85
+38,Ryan Gravenberch,Liverpool,Netherlands,male,right,190,77,MDO,76,76,81,85,81,81,85
+39,Erin Cuthbert,Chelsea,Scotch,female,right,163,60,MDO,79,80,84,83,80,73,85
+40,Emiliano Martinez,Aston Villa,Argentina,male,right,195,88,KL,83,82,82,85,85,85,85
+41,Kim Little,Arsenal,Scotch,female,right,162,57,MDO,76,75,85,88,78,70,85
+42,Sandy Baltimore,Chelsea,France,female,left,156,62,SLO,87,74,84,86,72,69,85
+43,Yui Hasegawa,Manchester City,Japan,female,right,156,48,MDO,77,71,85,86,81,63,85
+44,Bryan Mbeumo,Manchester United,Cameroon,male,left,171,75,SGK,88,84,79,84,49,76,85
+45,Lauren James,Chelsea,England,female,right,175,77,SGO,89,81,78,87,40,82,85
+46,Phil Foden,Manchester City,England,male,left,171,70,SGK,81,81,82,89,57,57,85
+47,Youri Tielemans,Aston Villa,Belgium,male,right,176,72,MO,54,79,85,80,75,72,85
+48,Ella Toone,Manchester United,England,female,right,163,57,MOO,81,80,81,86,51,64,85
+49,Caitlin Foord,Arsenal,Australian,female,right,169,61,SLO,87,77,81,82,45,70,85
+50,Granit Xhaka,Sunderland,Switzerland,male,left,186,80,MDO,47,75,85,74,78,82,85
